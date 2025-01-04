@@ -20,9 +20,6 @@
 - **[Siltara RPG Game](https://github.com/AnsElwkel/SP___Project)**  
   Developed an engaging RPG game with a GUI using C++ and SFML for a course project.  
 
-- **[Supervised ML](https://github.com/ahmedlapip/SupervisedML_Project)**  
-  Hands-on regression and classification modeling with Python libraries.  
-
 ---
 
 ### 📚 Skills  
